@@ -1,6 +1,6 @@
 public class C2552 {
     public long countQuadruplets(int[] nums) {
-
+        return 0;
     }
 
     private void fenwickUpdate(long[] fenwick, int index, int n) {
